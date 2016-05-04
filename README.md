@@ -1,0 +1,1 @@
+# Image-cropping-with-jCrop-in-Codeigniter.
